@@ -47,7 +47,7 @@
 
 ## Modo dark-theme:
 
-#### _Adicionei ao projeto um dark-theme, ou dark-mode, que não havia no original._
+#### _Adicionei ao projeto um dark-theme, ou dark-mode, que não havia no original. A preferência fica salva no localstorage._
 
 &nbsp;
 
