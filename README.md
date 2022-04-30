@@ -2,6 +2,10 @@
 
 ### _Projeto desenvolvido durante a Maratona Discover da Rocketseat_ 🚀 🚀 🚀
 
+### Você pode testá-lo aqui:
+
+[dev.finance$](https://dev-finance-by-elaine.netlify.app/)
+
 &nbsp;
 
 ---
